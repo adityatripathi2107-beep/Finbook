@@ -1,0 +1,2 @@
+# Finbook
+Personal Finance AI
